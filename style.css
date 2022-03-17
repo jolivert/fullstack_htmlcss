@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(35, 119, 125);
+}
+
+div {
+  background-color: lightblue;
+  
+}
+
+h1 {
+  text-decoration: underline;
+  font-size: 5em;
+}
+
+#logo {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 200px;
+  border: 0px solid blue;
+}
+
+#Altum {
+  color: blue;
+}
+
+#soul, #parca, #tiny {
+
+  width: 200px;
+  height: 250px;
+  border: 2px solid black;
+}
+
+footer {
+  position: absolute;
+  bottom:0vmin;
+  margin-left: 100px;
+}
